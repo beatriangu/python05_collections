@@ -5,11 +5,19 @@ __pycache__/
 *.py[cod]
 
 # =========================
+# Python tools cache
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
 # Virtual environments
 # =========================
 venv/
 .env
 .env.*
+.envrc
 
 # =========================
 # Documentation artifacts
@@ -26,3 +34,4 @@ MAP.md
 # =========================
 .DS_Store
 Thumbs.db
+
