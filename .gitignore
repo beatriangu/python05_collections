@@ -5,7 +5,7 @@ __pycache__/
 *.py[cod]
 
 # =========================
-# Python tools cache
+# Python tooling caches
 # =========================
 .pytest_cache/
 .mypy_cache/
@@ -25,13 +25,7 @@ venv/
 *.pdf
 
 # =========================
-# Local learning maps
-# =========================
-MAP.md
-
-# =========================
 # OS / System files
 # =========================
 .DS_Store
 Thumbs.db
-
